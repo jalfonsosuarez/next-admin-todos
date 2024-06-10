@@ -18,7 +18,7 @@ const menuItems = [
   {
     icon: <IoListOutline />,
     title: 'Server Actions',
-    path: '/server-todo',
+    path: '/dashboard/server-todos',
   },
 ]
 
